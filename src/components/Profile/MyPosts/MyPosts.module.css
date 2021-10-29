@@ -1,0 +1,15 @@
+.item{
+    color: blue;
+}
+
+.postsBlock{
+    padding: 10px;
+}
+
+.postsBlock textarea{
+    width: 100%;
+}
+
+.postsBlock button{
+    margin-bottom: 20px;
+}
